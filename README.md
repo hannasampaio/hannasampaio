@@ -29,7 +29,7 @@ Com background em <strong>Direito</strong> e certificação em <strong>Desenvolv
 | [🍔 eFood](https://github.com/hannasampaio/efood) | App de delivery com AJAX, modal e UI responsiva | React, Styled Components, REST |
 | [🎯 IMC Fácil](https://github.com/hannasampaio/imcFacil) | Calculadora de IMC leve, responsiva e moderna | React, TypeScript, Vite |
 | [🎮 ePlay](https://github.com/hannasampaio/eplay) | Loja de games com carrinho, filtros e vitrine responsiva | React, Redux, Styled Components |
-| [📢 EBAC Tech Talks](https://github.com/hannasampaio/ebac-techtalks) | Sistema de agendamento e exibição de palestras | Angular, TypeScript |
+| [📢 EBAC Tech Talks](https://github.com/hannasampaio/ebac_tech_talks) | Sistema de agendamento e exibição de palestras | Angular, TypeScript |
 | [✅ ToDo Vue](https://github.com/hannasampaio/todo-vue) | Lista de tarefas simples e funcional com Vue | Vue.js, JavaScript |
 
 🔍 Veja mais no meu [GitHub](https://github.com/hannasampaio)
@@ -39,7 +39,7 @@ Com background em <strong>Direito</strong> e certificação em <strong>Desenvolv
 ## 🤝 Vamos nos conectar?
 
 <p>
-  <a href="https://www.linkedin.com/in/hannasampaio/" target="_blank">
+  <a href="https://www.linkedin.com/in/hanna-sampaio-252454138/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hannasampaio.dev@gmail.com">
