@@ -155,10 +155,6 @@ Calculadora de IMC responsiva desenvolvida em React e TypeScript.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hannasampaio&bg_color=0B1F3A&color=C9A227&line=C9A227&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=hannasampaio&theme=radical&hide_border=true&background=0B1F3A&ring=C9A227&fire=C9A227&currStreakLabel=C9A227"/>
-</p>
-
 ---
 
 <p align="center">
